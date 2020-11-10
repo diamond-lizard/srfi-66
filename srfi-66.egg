@@ -1,0 +1,10 @@
+;;; srfi-66.egg -*- Scheme -*- vim: ft=scheme:
+
+((author "Michael Sperber")
+ (maintainer "Sergey Goldgaber")
+ (synopsis "SRFI-66: Octet Vectors")
+ (version "0.1")
+ (category data)
+ (test-dependencies test)
+ (license "MIT")
+ (components (extension srfi-66)))
